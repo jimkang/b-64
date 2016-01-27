@@ -1,13 +1,12 @@
 {
   "name": "b-64",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Just a command line tool wrapper around base64-img.",
   "main": "index.js",
   "bin": {
     "b-64": "./index.js"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git@github.com:jimkang/b-64.git"
