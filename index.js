@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var base64Img = require('base64-img');
 
 if (process.argv.length < 3) {
